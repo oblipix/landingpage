@@ -26,7 +26,7 @@ https://github.com/user-attachments/assets/95596d6c-cd28-47e1-9bc5-03422e50545a
 
 
 > Ter o Git instalado no seu computador.
-> Se ainda não tiver, baixe e instale o Git a partir deste link.
+> Se ainda não tiver, baixe e instale o Git.
 >
 > Uma conta no GitHub (opcional, mas recomendado).
 
